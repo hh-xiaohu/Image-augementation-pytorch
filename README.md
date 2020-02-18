@@ -12,12 +12,12 @@ ohemloss: https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shriva
 
 ## pipline
 
-Conventional image enhancement: 
+Conventional image agumentation: 
 - resize
 - median blur
 - gaussian blur
 - motion blur
-- multiplicativeNoise
+- multiplicative noise
 - gaussian noise
 - affine image
 - cutout
