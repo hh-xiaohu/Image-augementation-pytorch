@@ -78,3 +78,8 @@ def resize(image, size=(128, 128)):
     roi = image[ymin:ymax, xmin:xmax]
     resized_roi = cv2.resize(roi, size, interpolation=cv2.INTER_AREA)
     return resized_roi
+
+def add_gaussian_noise(x, sigma):
+    x += np.random.randn(*x.shape) * sigma
+    x = np.clip(x, 0., 1.)
+    return x
