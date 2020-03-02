@@ -28,4 +28,4 @@ Conventional image agumentation:
 - shift, scale, rotate
 - normalize
 
-augmix: https://arxiv.org/abs/1912.02781
+augmix: https://arxiv.org/pdf/1912.02781.pdf
