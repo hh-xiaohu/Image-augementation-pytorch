@@ -4,11 +4,11 @@ Image augmentation pipline implementation using pytorch.
 
 ## cutmix-mixup-ohemloss
 
-cutmix: https://arxiv.org/abs/1905.04899?context=cs.CV
+cutmix: https://arxiv.org/pdf/1905.04899.pdf
 
-mixup: https://arxiv.org/abs/1710.09412
+mixup: https://arxiv.org/pdf/1710.09412.pdf
 
-ohemloss: https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.html
+ohemloss: https://arxiv.org/pdf/1604.03540.pdf
 
 ## pipline
 
