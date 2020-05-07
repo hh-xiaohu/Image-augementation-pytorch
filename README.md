@@ -1,6 +1,6 @@
 # Image-augmentation-pytorch
 
-Image augmentation pipline implementation using pytorch.
+Image augmentation implementation using pytorch.
 
 ## cutmix-mixup-ohemloss
 
